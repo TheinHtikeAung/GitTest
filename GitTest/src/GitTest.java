@@ -3,7 +3,7 @@ public class GitTest {
 		System.out.println("Git is powerful !");
 	}
 	
-	public void testing{
+	public void testing(){
 		//Testing Method
 	}
 }
