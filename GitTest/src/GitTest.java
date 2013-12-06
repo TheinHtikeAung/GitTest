@@ -7,7 +7,7 @@ public class GitTest {
 		return "testing";
 	}
 	
-	public void testing(){
+	public void testing23(){
 		//Testing Method
 	}
 }
